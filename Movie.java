@@ -10,7 +10,8 @@
 //titleof the movie and a String representing the studio as its arguments, and sets the
 //respective class variables to these values, while the class variable rating is set to "PG".
 //c) Write a piece of code that creates an instance of the class Movie with the title
-//“Casino Royale”, the studio “Eon Productions”, and the rating “PG­13”.public class Movie
+//“Casino Royale”, the studio “Eon Productions”, and the rating “PG­13”.
+public class Movie
 {
 	String Title;
 	String Studio;
@@ -50,3 +51,11 @@
 	 M2.display2();
     }
 }
+			
+				Output
+				C:\java\bin>java Movie
+				Title:Casino Royal
+				 Studio:Eon Productions
+ 				Rating:PG-13
+				Title:Casino Royal
+				 Studio:Eon Productions
