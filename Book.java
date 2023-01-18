@@ -1,4 +1,5 @@
-public class Book
+//3. Write a Java Beans Program for the class BOOK with name, author, and International
+//Standard Book Number (ISBN)public class Book
 {
     String name;
     String author;
