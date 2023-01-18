@@ -15,9 +15,9 @@ class Holiday
 	String  holidaymonth;
 public Holiday()
 {
-  		holidayname=name;
-		holiday= day;
-		holidaymonth=month
+  		holidayname="New year;
+		holiday= 1;
+		holidaymonth="january";
 }
 	public Holiday(String name,int day,String month)
 	{
@@ -33,3 +33,8 @@ public Holiday()
 		System.out.println(Test.holidaymonth+"  ");
 	}
 }
+			Output
+			C:\java\bin>java Holiday
+			Ugadi
+			20
+			March
