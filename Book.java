@@ -35,3 +35,8 @@ public class Book
         System.out.println("Book Name:"+b.getName()+"Book Author:"+b.getAuthor() +"Book Isbn:" +b.getIsbn());
     }
 }
+
+			Output
+			
+			C:\java\bin>java Book
+			Book Name:JavaBook Author:Harish HBook Isbn:123-456-789	
